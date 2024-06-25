@@ -2,7 +2,7 @@
 
 <img
   src="https://i.pinimg.com/originals/49/7a/10/497a10e265b40f782bb7785ea0fa5f6b.png"
-  width="350px"
+  width="300px"
   align="right"
   alt="Computador"
 />
