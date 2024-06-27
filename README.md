@@ -1,4 +1,4 @@
-<h3>Hello, world! 👋 Welcome to my profile!</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4500&pause=1500&color=24258A&random=false&width=435&lines=Hello%2C+world!+%F0%9F%91%8B%F0%9F%8F%BB+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <img
   src="https://i.pinimg.com/originals/49/7a/10/497a10e265b40f782bb7785ea0fa5f6b.png"
