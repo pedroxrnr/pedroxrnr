@@ -9,7 +9,7 @@
 
 <strong>About me:</strong>
 - 👨🏻‍💻 &nbsp; Hello! My name is Pedro Rener, a 25-year-old programming enthusiast with a passion for technology and software development. I'm currently pursuing studies to become a full-stack developer. If you need assistance or collaboration on a project, feel free to reach out! I'm eager to learn and contribute, no matter the challenge or technology.
-- 💜 &nbsp; Currently, my focus is web development using the JavaScript stack. I am working and studying every day to improve my programming and soft skills. In my free time, I enjoy reading books, playing games and I have started learning English.
+- 🤍 &nbsp; Currently, my focus is web development using the JavaScript stack. I am working and studying every day to improve my programming and soft skills. In my free time, I enjoy reading books, playing games and I have started learning English.
 
 <strong>Technologies and Tools:</strong>
 <p align="left">
