@@ -23,8 +23,8 @@
 
 <strong>Github Stats:</strong>
 <div align="center">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedroxrnr&show_icons=true&theme=tokyonight&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroxrnr&layout=compact&langs_count=10&theme=tokyonight&count_private=true"    />
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedroxrnr&show_icons=true&theme=tokyonight&count_private=true"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroxrnr&layout=compact&langs_count=10&theme=tokyonight&count_private=true"    />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=332A44&height=120&section=footer"/>
