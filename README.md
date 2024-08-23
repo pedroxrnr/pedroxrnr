@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E005B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A327B&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4500&pause=1500&color=24258A&random=false&width=435&lines=Hello%2C+world!+%F0%9F%91%8B%F0%9F%8F%BB+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
@@ -27,4 +27,4 @@
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroxrnr&layout=compact&langs_count=10&theme=tokyonight&count_private=true"    />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E005B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A327B&height=120&section=footer"/>
